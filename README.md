@@ -19,3 +19,7 @@ This repository contains a Power BI dashboard created for analysis in the hospit
 **Detailed Property Performance**: A table provides a breakdown of key metrics by the property, including RevPAR, Occupancy %, ADR, DSRN, DBRN, DURN, Realization %, Cancellation %, and Average Rating.
 
 **Channel Analysis**: The realization percentage and ADR are analyzed by different booking channels.
+
+
+<img width="614" alt="SnapShot_Dashboard" src="https://github.com/user-attachments/assets/2ab1f3e4-5105-4c5e-bb60-223db8c405da">
+
